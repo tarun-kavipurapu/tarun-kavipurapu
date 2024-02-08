@@ -13,11 +13,9 @@
          
 [![AyushKrSingh000](https://github-readme-activity-graph.vercel.app/graph?username=okieLoki&bg_color=271d44&color=f702e3&line=a8059d&point=ffffff&area=true&hide_border=true)](https://github.com/okieLoki)
 
-<p>
-<img src = "https://github-readme-streak-stats.herokuapp.com?user=okieLoki&theme=radical&hide_border=false" width = "50%" >
-    <img src="https://github-readme-stats.vercel.app/api?username=okieLoki&show_icons=true&theme=radical" alt="okieLoki" width = 46%/>
-</p>        
-<hr>
+
+
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=tarun-kavipurapu&theme=radical&border_radius=5.0&card_width=500&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" /></a>
 
 
 
