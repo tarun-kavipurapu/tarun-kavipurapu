@@ -15,8 +15,11 @@
 
 
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=tarun-kavipurapu&theme=radical&border_radius=5.0&card_width=500&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" /></a>
-
+<p>
+<img src = "https://github-readme-streak-stats.herokuapp.com?user=tarun-kavipurapu&theme=radical&hide_border=false" width = "50%" >
+    <img src="https://github-readme-stats.vercel.app/api?username=tarun-kavipurapu&show_icons=true&theme=radical" alt="tarun-kavipurapu" width = 46%/>
+</p>        
+<hr>
 
 
 
