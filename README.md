@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![X.com](https://img.shields.io/badge/X.com-<COLOR>.svg?logo=X.com&logoColor=white)](https://www.X.com)
+[![X.com](https://img.shields.io/badge/X.com-<COLOR>.svg?logo=X.com&logoColor=black)][(https://www.X.com)]
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)][(https://www.linkedin.com/in/tarun-kavipurapu-ab820b226/)]
 
 # 💻 Tech Stack:
