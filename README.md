@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on  Web Devlopment and Machine learning br>👯 I’m looking to collaborate on Backend<br>🤝 I’m looking for help with Data Structures & Algorithms<br>🌱 
+🔭 I’m currently working on  Web Devlopment and Machine learning <br>👯 I’m looking to collaborate on Backend<br>🤝 I’m looking for help with Data Structures & Algorithms<br>
 
 
 ## 🌐 Socials:
