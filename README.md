@@ -1,9 +1,9 @@
 # 💫 About Me:
-🔭 I’m currently working on AWS Serverless<br>👯 I’m looking to collaborate on DevOps<br>🤝 I’m looking for help with Data Structures & Algorithms<br>🌱 I’m currently learning Microservices<br>💬 Ask me about Linux<br>⚡ Fun fact I use arch btw 
+🔭 I’m currently working on  Web Devlopment and Machine learning br>👯 I’m looking to collaborate on Backend<br>🤝 I’m looking for help with Data Structures & Algorithms<br>🌱 
 
 
 ## 🌐 Socials:
-[![X.com](https://img.shields.io/badge/X.com-%23000000.svg?logo=X.com&logoColor=white)](https://www.X.com)
+[![X](https://img.shields.io/badge/X.com-%23000000.svg?logo=X.com&logoColor=white)](https://www.X.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarun-kavipurapu-ab820b226/)
 
 # 💻 Tech Stack:
@@ -20,7 +20,6 @@
 <img src = "https://github-readme-streak-stats.herokuapp.com?user=tarun-kavipurapu&theme=radical&hide_border=false" width = "50%" >
     <img src="https://github-readme-stats.vercel.app/api?username=tarun-kavipurapu&show_icons=true&theme=radical" alt="tarun-kavipurapu" width = 46%/>
 </p>
-[![Sparkline](https://stars.medv.io/tarun-kavipurapu/badges.svg)](https://stars.medv.io/tarun-kavipurapu/badges)
 <hr>
 
 
