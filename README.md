@@ -11,7 +11,7 @@
 # 📊 GitHub Stats:
 
          
-[![AyushKrSingh000](https://github-readme-activity-graph.vercel.app/graph?username=okieLoki&bg_color=271d44&color=f702e3&line=a8059d&point=ffffff&area=true&hide_border=true)](https://github.com/okieLoki)
+[![AyushKrSingh000](https://github-readme-activity-graph.vercel.app/graph?username=tarun-kavipurapu&bg_color=271d44&color=f702e3&line=a8059d&point=ffffff&area=true&hide_border=true)](https://github.com/tarun-kavipurapu)
 
 
 
