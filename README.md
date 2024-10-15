@@ -30,10 +30,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
     alt="javascript" width="92" height="92" />
     </a>
-    <a href="https://kubernetes.io" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="92"
-    height="92" />
-    </a>
     <a href="https://www.docker.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
     alt="docker" width="92" height="92" />
@@ -62,8 +58,7 @@
     alt="redis" width="92" height="92" />
     </a>
     <a href="https://isocpp.org/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="redis" width="92" height="92" />
-    
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="redis" width="92" height="92" />
     </a>
 </p>
 
